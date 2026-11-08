@@ -1,0 +1,8 @@
+error_type,count,GPT6,Gemini,Qwen,low,high,pct_of_error_flags
+C1 absence claim although the passage answers,3,0,1,2,0,3,13.043478260869565
+C2 absence claim; item/reference mismatch,3,0,2,1,2,1,13.043478260869565
+C3 different entity than the reference (passage names two schools),1,0,0,1,1,0,4.3478260869565215
+C4 reference term missing; related content given,7,3,1,3,0,7,30.434782608695652
+C5 over-inclusive answer,3,0,2,1,1,2,13.043478260869565
+C6 scored 0 although the reference is contained; reason not recorded,1,0,0,1,1,0,4.3478260869565215
+G1 grammar slip; type not recorded,5,0,1,4,4,1,21.73913043478261

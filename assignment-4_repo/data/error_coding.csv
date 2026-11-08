@@ -1,0 +1,24 @@
+blind_id,dimension,error_type
+R026,meaning,C2 absence claim; item/reference mismatch
+R118,meaning,C2 absence claim; item/reference mismatch
+R049,meaning,C2 absence claim; item/reference mismatch
+R036,meaning,C1 absence claim although the passage answers
+R074,meaning,C1 absence claim although the passage answers
+R072,meaning,C1 absence claim although the passage answers
+R076,meaning,C3 different entity than the reference (passage names two schools)
+R119,meaning,C4 reference term missing; related content given
+R093,meaning,C4 reference term missing; related content given
+R035,meaning,C4 reference term missing; related content given
+R077,meaning,C4 reference term missing; related content given
+R099,meaning,C4 reference term missing; related content given
+R007,meaning,C4 reference term missing; related content given
+R056,meaning,C4 reference term missing; related content given
+R034,meaning,C5 over-inclusive answer
+R006,meaning,C5 over-inclusive answer
+R109,meaning,C5 over-inclusive answer
+R085,meaning,C6 scored 0 although the reference is contained; reason not recorded
+R110,grammar,G1 grammar slip; type not recorded
+R027,grammar,G1 grammar slip; type not recorded
+R064,grammar,G1 grammar slip; type not recorded
+R085,grammar,G1 grammar slip; type not recorded
+R112,grammar,G1 grammar slip; type not recorded

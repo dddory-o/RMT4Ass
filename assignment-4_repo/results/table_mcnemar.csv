@@ -1,0 +1,4 @@
+pair,x_only_correct,y_only_correct,p,holm_p
+GPT-6 vs gemini-3.5-flash,5,2,0.453125,0.90625
+GPT-6 vs qwen/qwen3.8-27b,6,0,0.03125,0.09375
+gemini-3.5-flash vs qwen/qwen3.8-27b,6,3,0.5078125,0.90625
