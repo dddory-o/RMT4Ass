@@ -1,0 +1,3 @@
+measure,Gemma3-4B,Qwen3-4B,p
+meaning_human,1.5833,1.5667,0.9546
+grammar_human,1.8667,1.85,0.7977
